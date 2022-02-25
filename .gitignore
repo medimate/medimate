@@ -1,0 +1,24 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+
+# Vagrant Files
+*.vagrant
+Vagrantfile
+
+# DS Store Files
+*.DS_Store
+
+# Elastic Beanstalk Files
+#.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# idea Files
+*.idea
+
+# keys folder
+storage/keys
